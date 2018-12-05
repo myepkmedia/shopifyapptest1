@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <HelloWorld/>
+    <image-manager/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
+import ImageManager from './components/ImageManager'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    ImageManager
   }
 }
 </script>

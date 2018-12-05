@@ -68,7 +68,7 @@ export default {
       
     }
   },
-  name: 'HelloWorld',
+  name: 'ImageManager',
   data () {
     return {
       title: "Admin"
